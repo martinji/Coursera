@@ -1,2 +1,2 @@
-# Coursera
+# datasciencecoursera
 Created as part of coursera course
